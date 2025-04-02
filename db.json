@@ -1,15 +1,74 @@
+[{
+  "obj_id": "1",
+  "obj_name": "Карпинского 50",
+  "obj_renters": {
+    "renter_id": 1
+  },
+  "utilities": [
+    {
+      "name_p_utilities": "УК Акварели",
+      "meter_readings": true,
+      "paid": false,
+      "site": "http://ukakv.ru/lk",
+      "login": "godrik",
+      "pass": "123456"
+    },
+    {
+      "name_p_utilities": "Новогор",
+      "meter_readings": false,
+      "paid": true,
+      "site": "http://lk.novogor.ru",
+      "login": "godrik",
+      "pass": "12345"
+    },
+    {
+      "name_p_utilities": "Газпром",
+      "meter_readings": true,
+      "paid": false,
+      "site": "http://мойгаз.смородина.рф/",
+      "login": "godrik",
+      "pass": "1234"
+    }
+  ]
+},
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "obj_id": "2",
+  "obj_name": "Челюскинцев 15-253",
+  "obj_renters": {
+    "renter_id": 1
+  },
+  "utilities": [
+    {
+      "name_p_utilities": "УК Акварели",
+      "meter_readings": true,
+      "paid": false,
+      "site": "http://ukakv.ru/lk",
+      "login": "godrik",
+      "pass": "123456"
+    },
+    {
+      "name_p_utilities": "Новогор",
+      "meter_readings": false,
+      "paid": true,
+      "site": "http://lk.novogor.ru",
+      "login": "godrik",
+      "pass": "12345"
+    },
+    {
+      "name_p_utilities": "Газпром",
+      "meter_readings": true,
+      "paid": false,
+      "site": "http://мойгаз.смородина.рф/",
+      "login": "godrik",
+      "pass": "1234"
+    },
+    {
+      "name_p_utilities": "Пермэнергосбыт",
+      "meter_readings": true,
+      "paid": false,
+      "site": "http://permenerog.ru/",
+      "login": "godrik",
+      "pass": "1234"
+    }
+  ]
+}]
