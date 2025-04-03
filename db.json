@@ -1,6 +1,6 @@
 {
   "objects_adr": [{
-  "obj_id": "1",
+  "obj_id": 1,
   "obj_name": "Карпинского 50",
   "obj_renters": {
     "renter_id": 1
@@ -33,7 +33,7 @@
   ]
 },
 {
-  "obj_id": "2",
+  "obj_id": 2,
   "obj_name": "Челюскинцев 15-253",
   "obj_renters": {
     "renter_id": 1
