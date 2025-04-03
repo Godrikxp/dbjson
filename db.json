@@ -1,7 +1,7 @@
 {
   "objects_adr": [{
   "id": 1,
-  "obj_name": "Карпинского 50",
+  "obj_name": "Карпинского 50 Офис 5",
   "obj_renters": {
     "renter_id": 1
   },
@@ -23,7 +23,7 @@
       "pass": "12345"
     },
     {
-      "name_p_utilities": "Газпром",
+      "name_p_utilities": "Пермэнергосбыт",
       "meter_readings": true,
       "paid": false,
       "site": "http://мойгаз.смородина.рф/",
@@ -40,7 +40,7 @@
   },
   "utilities": [
     {
-      "name_p_utilities": "УК Акварели",
+      "name_p_utilities": "ТСЖ",
       "meter_readings": true,
       "paid": false,
       "site": "http://ukakv.ru/lk",
